@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @anime-kun32
-- 👀 I’m interested in Games, music and Progmramming 
+- 👀 I’m interested in Games, music and Progmramming and I LOVE ANIME !! 
 - 🌱 I’m currently learning Vue3.js
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like anime and I love playing Rythm games like Geometry dash and Friday Night Funkin
+- ⚡ Favourite anime  : Bungo Stray Dogs 
 
 <!---
 anime-kun32/anime-kun32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
