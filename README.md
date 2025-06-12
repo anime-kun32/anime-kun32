@@ -1,11 +1,44 @@
-- 👋 Hi, I’m @anime-kun32
-- 👀 I’m interested in Games, music and Progmramming and I LOVE ANIME !! 
-- 🌱 I’m currently learning Vue3.js
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like anime and I love playing Rythm games like Geometry dash and Friday Night Funkin
-- ⚡ Favourite anime  : Bungo Stray Dogs 
 
-<!---
-anime-kun32/anime-kun32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<h1 align="center">Yo, I'm anime-kun32 👾</h1>
+
+<p align="center">
+  Full-stack dev building weeb-powered web stuff.<br />
+  Maintainer of <b>AniTeams</b> — anime streaming ( full anilist tracking coming soon )
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anime-kun32&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anime-kun32&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Links
+
+<p align="center">
+  🛠️ <a href="https://github.com/anime-kun32/AniTeams">AniTeams</a> •  
+  🌐 <a href="https://aniteams.vercel.app">aniteams.vercel.app</a> •  
+</p>
+
+---
+
+> “Written in Next.js, powered by caffeine & anime.”
+
