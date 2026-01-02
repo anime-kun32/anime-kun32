@@ -30,6 +30,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Friday_Night_Funkin’-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anime-6A5ACD?style=for-the-badge" />
+</p>
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
