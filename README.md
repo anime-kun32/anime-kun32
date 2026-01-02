@@ -21,6 +21,14 @@
 </p>
 
 ---
+### 🎮 Interests & Vibes
+
+- Rhythm games enjoyer — **osu!**, **Friday Night Funkin’**, StepMania  
+- Into high-BPM charts, streams, jumps & finger pain  
+- Anime addict (OPs, EDs, soundtracks hit different)
+- Love blending anime + music + web tech into projects
+
+---
 
 ### 📈 GitHub Stats
 
